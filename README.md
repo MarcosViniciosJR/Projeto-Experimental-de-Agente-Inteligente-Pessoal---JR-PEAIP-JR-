@@ -12,4 +12,4 @@ Sempre que precisar atualizar o seu repositório no GitHub, utilize esta sequên
 ```bash
 git add .
 git commit -m "feat: descrição curta do que você alterou"
-git push
+git push 
